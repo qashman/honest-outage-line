@@ -1,0 +1,4 @@
+﻿__pycache__/
+*.pyc
+transcripts.tar.gz
+system-prompt.txt
